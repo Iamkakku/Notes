@@ -88,4 +88,4 @@ scripting engine inside Java applications
 11) jdeps command-line tool allows the developer to analyze class files to
 determine package-level or class-level dependencies.
 12) Java Optional Class:A container object which may or may not contain a
-non-null value. If a value is present, isPresent() will return true and get() will return 
+non-null value. If a value is present, isPresent() will return true and get() will return the value
